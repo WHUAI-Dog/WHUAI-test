@@ -1,3 +1,2 @@
 The quick brown fox jumps out of the lazy dog.
-Blah blah
-bb
+Due to the conversions, some Kyujitai Kanjis were mapped to one single Shinjitai Kanji (especally the Kanji 弁). Thus, 弁財 can be 辨財, 辨才, 辯財, 辯才, etc.. So there are always mistakes in the conversion.
